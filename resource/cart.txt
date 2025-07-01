@@ -1,0 +1,12 @@
+[
+    {
+        "invoice_code": "IV728",
+        "product_name": "matcha_latte",
+        "product_type": "drink",
+        "quantity": 4,
+        "price": 40000.0,
+        "subtotal": 0,
+        "customer_name": "customer",
+        "product_id_barcode": 4
+    }
+]
